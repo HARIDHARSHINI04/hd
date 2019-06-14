@@ -1,3 +1,3 @@
-a=int(input())
-b=a+1
-print(b)
+p=int(input())
+h=p+1
+print(p)
