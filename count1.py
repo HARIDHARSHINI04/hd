@@ -1,5 +1,5 @@
-a=input().split()
-x=0
-for i in range a:
-  x=x+len[i]
-print(x)
+p=input().split()
+h=0
+for i in range p:
+  h=h+len[i]
+print(h)
