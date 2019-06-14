@@ -1,7 +1,5 @@
 a=int(input())
-for i in range(1,11):
-  if(i==a):
+if a in range(1,11):
     print("yes")
-    break
-  else:
+else:
     print("no")
