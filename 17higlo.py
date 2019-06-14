@@ -1,0 +1,5 @@
+f=int(input())
+ts=list(map(int,input().split()))
+p=max(ts)
+h=min(ts)
+print(p,h)
