@@ -1,0 +1,2 @@
+fk=input()
+print(fk)
