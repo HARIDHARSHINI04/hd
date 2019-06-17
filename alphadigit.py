@@ -7,6 +7,6 @@ for i in v:
   if(i.isdigit()):
     h=True
 if(p==True and h==True):
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
