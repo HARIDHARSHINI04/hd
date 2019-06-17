@@ -1,2 +1,2 @@
-a=input()
-print(a.count('.')+1)
+hd=input()
+print(hd.count('.')+1)
