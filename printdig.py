@@ -1,3 +1,3 @@
-hd=input()
-for i in range hd:
+hd=list(
+for i in hd:
   print(hd,end=" ")
