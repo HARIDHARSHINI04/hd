@@ -1,4 +1,4 @@
-f=int(input()):
+f=int(input())
 if(f==2):
   print("yes")
 elif(f>1):
