@@ -1,10 +1,12 @@
-y=input()
-if(y>0):
+y=int(input())
+if y==1:
+  print("no")
+elif(y>1):
  for z in range(2,y):
     if(y%z==0):
-       print("no")
+       print("yes")
        break;
     else:
-       print("yes")
+       print("no")
 else:
   print("no")
