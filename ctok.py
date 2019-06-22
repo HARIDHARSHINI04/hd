@@ -1,2 +1,2 @@
-a=int(input())
-print(a+273)
+fz=int(input())
+print(fz+273)
